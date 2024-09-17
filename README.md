@@ -1,3 +1,11 @@
+Deployment Links
+https://testnet.aleoscan.io/transaction?id=at13yu6wxtaf89umuaxjvs8rdmh8y3ke8wz9a88y4gsz22p6wslnc9szr2xjq
+
+https://testnet.aleoscan.io/transaction?id=at1w5rx4umduegflcywc5zrwhztsq5r63huqy3u9l3a2pt2hdpaz5xqgryyhr
+
+https://testnet.aleoscan.io/transaction?id=at1wk6vksw259j6d78seqpqxj4l66w4l3lpd0dcwngswcq5f9ah65zsyctrr2
+
+
 # aloe-bootcamp-repo
 Web3 Bootcamp Readme
 
@@ -22,4 +30,3 @@ Day 2: Aleo Project Deployment
 Overall Experience:
 
 The Web3 Bootcamp proved to be a valuable learning experience. The hands-on approach with tools like Aleo Playground and the successful deployment of projects were particularly rewarding and insightful.
-
